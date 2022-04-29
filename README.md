@@ -1,3 +1,4 @@
 # Basic_websites
 This folder contains some basic websites I had to do during tutorial classes.
-They were only coded on HTML and CSS, a more developed project on Javascript/HTML/CSS is to be updated on this git soon.
+The first one was only coded on HTML and CSS. In the second, some node modules were used.
+A more developed project on node.JS, HTML and CSS is to be uploaded on this git soon.
